@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/dmodena/CliMed.Mockup/issues"
   },
-  "homepage": "https://github.com/dmodena/CliMed.Mockup#readme"
+  "homepage": "https://github.com/dmodena/CliMed.Mockup#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1",
+    "jqueryui": "^1.11.1",
+    "pikaday": "^1.8.0",
+    "popper.js": "^1.16.1"
+  }
 }
