@@ -1,0 +1,19 @@
+{
+  "name": "climed.mockup",
+  "version": "1.0.0",
+  "description": "A mockup for the CliMed project",
+  "main": "public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmodena/CliMed.Mockup.git"
+  },
+  "author": "Douglas Modena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmodena/CliMed.Mockup/issues"
+  },
+  "homepage": "https://github.com/dmodena/CliMed.Mockup#readme"
+}
